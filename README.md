@@ -49,8 +49,8 @@ A secure chat application that provides completely safe and anonymous communicat
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/e2e-voice-chat.git
-cd e2e-voice-chat
+git clone https://github.com/MrPeterov/end2end-encrypted-chat.git
+cd end2end-encrypted-chat
 
 # Run setup script
 python3 setup.py
@@ -139,7 +139,7 @@ Client A                    Server                     Client B
 ## 📁 Project Structure
 
 ```
-e2e-voice-chat/
+end2end-encrypted-chat/
 ├── chat_client.py      # Client application with GUI
 ├── chat_server.py      # Server application
 ├── setup.py            # Automatic installation script
@@ -258,8 +258,8 @@ Modern kriptografi teknikleri kullanarak tamamen güvenli ve anonim iletişim sa
 
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/yourusername/e2e-voice-chat.git
-cd e2e-voice-chat
+git clone https://github.com/MrPeterov/end2end-encrypted-chat.git
+cd end2end-encrypted-chat
 
 # Kurulum scriptini çalıştırın
 python3 setup.py
@@ -348,7 +348,7 @@ python3 chat_client.py
 ## 📁 Proje Yapısı
 
 ```
-e2e-voice-chat/
+end2end-encrypted-chat/
 ├── chat_client.py      # GUI ile istemci uygulaması
 ├── chat_server.py      # Sunucu uygulaması
 ├── setup.py            # Otomatik kurulum scripti
@@ -440,5 +440,7 @@ Bu uygulama eğitim amaçlı ve özel kullanım için tasarlanmıştır. Güçl�
 **Made with ❤️ for secure communication**
 
 **Güvenli iletişim için ❤️ ile yapıldı**
+
+[⭐ Star this project on GitHub](https://github.com/MrPeterov/end2end-encrypted-chat)
 
 </div>
