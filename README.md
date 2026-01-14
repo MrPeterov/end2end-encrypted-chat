@@ -145,7 +145,6 @@ end2end-encrypted-chat/
 ├── setup.py            # Automatic installation script
 ├── README.md           # This file
 ├── LICENSE             # MIT License
-└── requirements.txt    # Python dependencies (optional)
 ```
 
 ## ⚙️ Configuration
@@ -353,8 +352,7 @@ end2end-encrypted-chat/
 ├── chat_server.py      # Sunucu uygulaması
 ├── setup.py            # Otomatik kurulum scripti
 ├── README.md           # Bu dosya
-├── LICENSE             # MIT Lisansı
-└── requirements.txt    # Python bağımlılıkları (opsiyonel)
+├── LICENSE             # MIT Lisansı 
 ```
 
 ## ⚙️ Yapılandırma
